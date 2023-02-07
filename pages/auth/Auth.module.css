@@ -1,0 +1,8 @@
+.shadow{
+    box-shadow: 4px -1px 11px 7px rgb(114 114 114 / 25%);
+
+}
+
+.gradientBG{
+    background: linear-gradient(140.03deg, #3051A3 -1.46%, rgba(255, 255, 255, 0) 90.09%)
+}
